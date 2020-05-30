@@ -2,16 +2,18 @@ import React from 'react'
 import './Slider.scss';
 import Carousel from 'react-bootstrap/Carousel';
 
-import img1 from '../img/1.jpg';
-import img1s from '../img/1.jpg';
-import img2 from '../img/1.jpg';
-import img2s from '../img/1.jpg';
-import img3 from '../img/1.jpg';
-import img3s from '../img/1.jpg';
-import img4 from '../img/1.jpg';
-import img4s from '../img/1.jpg';
-import img5 from '../img/1.jpg';
-import img5s from '../img/1.jpg';
+import img1 from '../img/slider/owczarnia - small.jpg';
+import img1s from '../img/slider/owczarnia - small.jpg';
+import img2 from '../img/slider/owczarnia - small-2.jpg';
+import img2s from '../img/slider/owczarnia - small-2.jpg';
+import img3 from '../img/slider/plener 72-30.jpg';
+import img3s from '../img/slider/plener 72-30.jpg';
+import img4 from '../img/slider/plener 72-38.jpg';
+import img4s from '../img/slider/plener 72-38.jpg';
+import img5 from '../img/slider/slider1.jpg';
+import img5s from '../img/slider/slider1.jpg';
+import img6 from '../img/slider/slider2.jpg';
+import img6s from '../img/slider/slider2.jpg';
 
 const Slider = () => {
 
@@ -21,6 +23,7 @@ const Slider = () => {
         { path: img3, pathS: img3s, },
         { path: img4, pathS: img4s, },
         { path: img5, pathS: img5s, },
+        { path: img6, pathS: img6s, },
     ]
 
     const carouselItems1 = imgSet1.map(item => {
