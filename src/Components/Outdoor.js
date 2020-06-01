@@ -2,8 +2,8 @@ import React from 'react'
 import './Outdoor.scss';
 import { Link } from 'react-router-dom';
 
-import img1 from '../img/plener/1/7.jpg'
-import img2 from '../img/plener/2/10.jpg'
+import img1 from '../img/plener/1/2.jpg'
+import img2 from '../img/plener/2/7.jpg'
 
 function Outdoor() {
     return (

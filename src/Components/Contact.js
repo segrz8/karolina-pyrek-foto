@@ -1,8 +1,10 @@
 import React from 'react'
 import './Contact.scss';
 
-import map from '../img/map.jpg'
-import mapS from '../img/mapS.jpg'
+// import map from '../img/map.jpg'
+// import mapS from '../img/mapS.jpg'
+
+import map from '../img/mapa.jpg'
 
 import img1 from '../img/1.jpg'
 
@@ -26,7 +28,7 @@ function Contact() {
             <div className="Contact__map">
                 <picture>
                     <source media="(min-width: 461px)" srcSet={map} />
-                    <img src={mapS} alt="..." />
+                    <img src={map} alt="..." />
                 </picture>
             </div>
         </div>

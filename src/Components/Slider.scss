@@ -1,6 +1,10 @@
 .Slider {
+    @media(min-width: 1024px) {
+        margin-top: 80px;
+    }
+
     img {
         object-fit: cover;
-        height: 100vh;
+        height: calc(100vh - 80px)
     }
 }

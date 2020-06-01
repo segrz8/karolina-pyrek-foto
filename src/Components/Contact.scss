@@ -103,17 +103,12 @@
 
     &__map {
         @media(min-width: 1024px) {
-            width: 30%;
-            height: 25%;
+            // height: 25%;
             position: absolute;
             right: 80px;
-            top: 60%;
-        }
-
-        @media(min-width: 1024px) {
-            width: 40%;
+            width: 38%;
             // height: 25%;
-            top: 50%;
+            top: 60%;
         }
 
         img {
