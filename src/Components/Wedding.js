@@ -1,5 +1,5 @@
 import React from 'react'
-import './Wedding.scss';
+import './Gallery.scss';
 
 import img1 from '../img/slub/1.jpg'
 import img2 from '../img/slub/2.jpg'
