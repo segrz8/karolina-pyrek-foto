@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/karolina-pyrek-foto/static/css/main.68ceb41a.chunk.css",
-    "main.js": "/karolina-pyrek-foto/static/js/main.6ff2fd2d.chunk.js",
-    "main.js.map": "/karolina-pyrek-foto/static/js/main.6ff2fd2d.chunk.js.map",
+    "main.css": "/karolina-pyrek-foto/static/css/main.c8bd928a.chunk.css",
+    "main.js": "/karolina-pyrek-foto/static/js/main.41db15e0.chunk.js",
+    "main.js.map": "/karolina-pyrek-foto/static/js/main.41db15e0.chunk.js.map",
     "runtime-main.js": "/karolina-pyrek-foto/static/js/runtime-main.99dee43c.js",
     "runtime-main.js.map": "/karolina-pyrek-foto/static/js/runtime-main.99dee43c.js.map",
     "static/css/2.8ab036e9.chunk.css": "/karolina-pyrek-foto/static/css/2.8ab036e9.chunk.css",
-    "static/js/2.d30b4366.chunk.js": "/karolina-pyrek-foto/static/js/2.d30b4366.chunk.js",
-    "static/js/2.d30b4366.chunk.js.map": "/karolina-pyrek-foto/static/js/2.d30b4366.chunk.js.map",
+    "static/js/2.6258d169.chunk.js": "/karolina-pyrek-foto/static/js/2.6258d169.chunk.js",
+    "static/js/2.6258d169.chunk.js.map": "/karolina-pyrek-foto/static/js/2.6258d169.chunk.js.map",
     "index.html": "/karolina-pyrek-foto/index.html",
-    "precache-manifest.2542a02dd4b56243b4e3ab5453184143.js": "/karolina-pyrek-foto/precache-manifest.2542a02dd4b56243b4e3ab5453184143.js",
+    "precache-manifest.af9d2fc0bd3b81ff2e74ede457df02cf.js": "/karolina-pyrek-foto/precache-manifest.af9d2fc0bd3b81ff2e74ede457df02cf.js",
     "service-worker.js": "/karolina-pyrek-foto/service-worker.js",
     "static/css/2.8ab036e9.chunk.css.map": "/karolina-pyrek-foto/static/css/2.8ab036e9.chunk.css.map",
-    "static/css/main.68ceb41a.chunk.css.map": "/karolina-pyrek-foto/static/css/main.68ceb41a.chunk.css.map",
-    "static/js/2.d30b4366.chunk.js.LICENSE.txt": "/karolina-pyrek-foto/static/js/2.d30b4366.chunk.js.LICENSE.txt",
+    "static/css/main.c8bd928a.chunk.css.map": "/karolina-pyrek-foto/static/css/main.c8bd928a.chunk.css.map",
+    "static/js/2.6258d169.chunk.js.LICENSE.txt": "/karolina-pyrek-foto/static/js/2.6258d169.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/karolina-pyrek-foto/static/media/1.ede9d30e.jpg",
     "static/media/10.jpg": "/karolina-pyrek-foto/static/media/10.6862d5e9.jpg",
     "static/media/10S.jpg": "/karolina-pyrek-foto/static/media/10S.e6998cd3.jpg",
@@ -101,7 +101,6 @@
     "static/media/logo.png": "/karolina-pyrek-foto/static/media/logo.2faabbf1.png",
     "static/media/mapa.jpg": "/karolina-pyrek-foto/static/media/mapa.a69fc620.jpg",
     "static/media/owczarnia - small-2.jpg": "/karolina-pyrek-foto/static/media/owczarnia - small-2.50114533.jpg",
-    "static/media/owczarnia - small.jpg": "/karolina-pyrek-foto/static/media/owczarnia - small.fb5e3e71.jpg",
     "static/media/plener 72-30.jpg": "/karolina-pyrek-foto/static/media/plener 72-30.8b6fe1e8.jpg",
     "static/media/plener 72-38.jpg": "/karolina-pyrek-foto/static/media/plener 72-38.555730cc.jpg",
     "static/media/slider1.jpg": "/karolina-pyrek-foto/static/media/slider1.3ecaddf4.jpg",
@@ -110,8 +109,8 @@
   "entrypoints": [
     "static/js/runtime-main.99dee43c.js",
     "static/css/2.8ab036e9.chunk.css",
-    "static/js/2.d30b4366.chunk.js",
-    "static/css/main.68ceb41a.chunk.css",
-    "static/js/main.6ff2fd2d.chunk.js"
+    "static/js/2.6258d169.chunk.js",
+    "static/css/main.c8bd928a.chunk.css",
+    "static/js/main.41db15e0.chunk.js"
   ]
 }

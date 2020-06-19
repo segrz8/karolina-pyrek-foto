@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/karolina-pyrek-foto/precache-manifest.2542a02dd4b56243b4e3ab5453184143.js"
+  "/karolina-pyrek-foto/precache-manifest.af9d2fc0bd3b81ff2e74ede457df02cf.js"
 );
 
 self.addEventListener('message', (event) => {
