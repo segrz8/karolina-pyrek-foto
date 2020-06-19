@@ -2,8 +2,8 @@ import React from 'react'
 import './Slider.scss';
 import Carousel from 'react-bootstrap/Carousel';
 
-import img1 from '../img/slider/owczarnia - small.jpg';
-import img1s from '../img/slider/owczarnia - small.jpg';
+// import img1 from '../img/slider/owczarnia - small.jpg';
+// import img1s from '../img/slider/owczarnia - small.jpg';
 import img2 from '../img/slider/owczarnia - small-2.jpg';
 import img2s from '../img/slider/owczarnia - small-2.jpg';
 import img3 from '../img/slider/plener 72-30.jpg';
@@ -18,7 +18,7 @@ import img6s from '../img/slider/slider2.jpg';
 const Slider = () => {
 
     const imgSet1 = [
-        { path: img1, pathS: img1s, },
+        // { path: img1, pathS: img1s, },
         { path: img2, pathS: img2s, },
         { path: img3, pathS: img3s, },
         { path: img4, pathS: img4s, },
@@ -39,7 +39,7 @@ const Slider = () => {
 
     return (
         <div className="Slider">
-            <Carousel controls={true} indicators={false} interval={4000}>
+            <Carousel controls={true} indicators={false} interval={2000}>
                 {carouselItems1}
             </Carousel>
         </div>

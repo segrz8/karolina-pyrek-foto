@@ -75,7 +75,7 @@
 
         @media(min-width: 1024px) {
             display: block;
-            transform: translate(-20%);
+            transform: translate(-30%);
             // opacity: .15;
 
             img {
@@ -103,7 +103,6 @@
 
     &__map {
         @media(min-width: 1024px) {
-            // height: 25%;
             position: absolute;
             right: 80px;
             width: 38%;

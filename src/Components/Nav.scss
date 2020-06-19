@@ -44,7 +44,8 @@
             li {
                 text-align: center;
                 line-height: 2.3em;
-                // text-transform: uppercase;
+                text-transform: uppercase;
+                font-weight: 300;
 
                 @media(min-width: 1024px) {
                     display: inline-block;
