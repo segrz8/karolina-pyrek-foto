@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c7d268b1db4298b17f906aaa03a6f4d",
+    "revision": "1623a975783c4b279c167b98f85fa75d",
     "url": "/karolina-pyrek-foto/index.html"
   },
   {
-    "revision": "544df7839c8633a44ab8",
+    "revision": "a5fa5990700650ce0cf1",
     "url": "/karolina-pyrek-foto/static/css/2.8ab036e9.chunk.css"
   },
   {
-    "revision": "39faed78aea598cf69f9",
-    "url": "/karolina-pyrek-foto/static/css/main.139ad743.chunk.css"
+    "revision": "2cd9e995bf7c3d87e87f",
+    "url": "/karolina-pyrek-foto/static/css/main.69bd528e.chunk.css"
   },
   {
-    "revision": "544df7839c8633a44ab8",
-    "url": "/karolina-pyrek-foto/static/js/2.6258d169.chunk.js"
+    "revision": "a5fa5990700650ce0cf1",
+    "url": "/karolina-pyrek-foto/static/js/2.1545a8d7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/karolina-pyrek-foto/static/js/2.6258d169.chunk.js.LICENSE.txt"
+    "url": "/karolina-pyrek-foto/static/js/2.1545a8d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39faed78aea598cf69f9",
-    "url": "/karolina-pyrek-foto/static/js/main.41db15e0.chunk.js"
+    "revision": "2cd9e995bf7c3d87e87f",
+    "url": "/karolina-pyrek-foto/static/js/main.ac030a95.chunk.js"
   },
   {
     "revision": "b080fc36b55181e4cfb9",
