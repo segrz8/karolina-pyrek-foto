@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/karolina-pyrek-foto/static/css/main.73cd8c6c.chunk.css",
-    "main.js": "/karolina-pyrek-foto/static/js/main.ac030a95.chunk.js",
-    "main.js.map": "/karolina-pyrek-foto/static/js/main.ac030a95.chunk.js.map",
+    "main.js": "/karolina-pyrek-foto/static/js/main.09260577.chunk.js",
+    "main.js.map": "/karolina-pyrek-foto/static/js/main.09260577.chunk.js.map",
     "runtime-main.js": "/karolina-pyrek-foto/static/js/runtime-main.99dee43c.js",
     "runtime-main.js.map": "/karolina-pyrek-foto/static/js/runtime-main.99dee43c.js.map",
     "static/css/2.8ab036e9.chunk.css": "/karolina-pyrek-foto/static/css/2.8ab036e9.chunk.css",
     "static/js/2.1545a8d7.chunk.js": "/karolina-pyrek-foto/static/js/2.1545a8d7.chunk.js",
     "static/js/2.1545a8d7.chunk.js.map": "/karolina-pyrek-foto/static/js/2.1545a8d7.chunk.js.map",
     "index.html": "/karolina-pyrek-foto/index.html",
-    "precache-manifest.b675a18894c22f1d6ad0c89d6621145e.js": "/karolina-pyrek-foto/precache-manifest.b675a18894c22f1d6ad0c89d6621145e.js",
+    "precache-manifest.a72bc08b66b03d2fd6803d2bbdecbf5e.js": "/karolina-pyrek-foto/precache-manifest.a72bc08b66b03d2fd6803d2bbdecbf5e.js",
     "service-worker.js": "/karolina-pyrek-foto/service-worker.js",
     "static/css/2.8ab036e9.chunk.css.map": "/karolina-pyrek-foto/static/css/2.8ab036e9.chunk.css.map",
     "static/css/main.73cd8c6c.chunk.css.map": "/karolina-pyrek-foto/static/css/main.73cd8c6c.chunk.css.map",
@@ -111,6 +111,6 @@
     "static/css/2.8ab036e9.chunk.css",
     "static/js/2.1545a8d7.chunk.js",
     "static/css/main.73cd8c6c.chunk.css",
-    "static/js/main.ac030a95.chunk.js"
+    "static/js/main.09260577.chunk.js"
   ]
 }
