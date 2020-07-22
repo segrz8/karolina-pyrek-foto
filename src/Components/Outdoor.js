@@ -216,6 +216,8 @@ const imgSet = [
     { id: 40, path: img40, pathS: img40S, },
     { id: 41, path: img41, pathS: img41S, },
     { id: 42, path: img42, pathS: img42S, },
+]
+const imgSet2 = [
     { id: 43, path: img43, pathS: img43S, },
     { id: 44, path: img44, pathS: img44S, },
     { id: 45, path: img45, pathS: img45S, },
@@ -270,11 +272,22 @@ const photos = imgSet.map(item => {
         </div >
     )
 })
+const photos2 = imgSet2.map(item => {
+    return (
+        <div className={"Gallery__img"} key={item.id}>
+            <picture>
+                <source media="(min-width: 481px)" srcSet={item.path} />
+                <img src={item.pathS} alt="..." />
+            </picture>
+        </div >
+    )
+})
 
 function Outdoor() {
     return (
         <div className="Gallery">
             <section className="Gallery__imgs">
+                {photos2}
                 {photos}
             </section>
         </div>
